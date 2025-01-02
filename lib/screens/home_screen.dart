@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:home_screen_drawer/screens/messages_screen.dart';
 import 'package:home_screen_drawer/screens/search_screen.dart';
 import 'package:home_screen_drawer/screens/profile_screen.dart';
+import 'package:home_screen_drawer/screens/setting_screen.dart';
+import 'package:home_screen_drawer/screens/help_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
